@@ -5,6 +5,6 @@ This is the MATLAB code for retinal image enhancement using MUTE method. We are 
 USAGE:
 Run main_MUTE_finished.m and select a retinal image for enhancement.
 
-The gray value threshold in red channel for background padding should be adjusted if the retinal image has severe illumination problem. Normally, the value is set to 20.
+The gray value threshold in red channel for background padding should be adjusted if the retinal image has severe illumination problem. Normally, the value is set to 20. Please ensure that the background and circular field of interest is separated as the grayvalue for the background should all be zero.
 
 Other parameters are automatically and adaptively determined.
