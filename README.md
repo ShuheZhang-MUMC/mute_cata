@@ -1,1 +1,1 @@
-# mute_cata
+# MUTE: Dehazing for cataractous retinal image using denoising
