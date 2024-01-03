@@ -1,6 +1,6 @@
 # MUTE: Dehazing for cataractous retinal image using denoising
 
-This is the MATLAB code for retinal image enhancement using Double-pass fundus reflection model. We are happy that this research has been accepted and published on Medical Image Analysis: [https://doi.org/10.1016/j.sigpro.2021.108400](https://doi.org/10.1016/j.media.2023.102848)
+This is the MATLAB code for retinal image enhancement using MUTE method. We are happy that this research has been accepted and published on Medical Image Analysis: [https://doi.org/10.1016/j.sigpro.2021.108400](https://doi.org/10.1016/j.media.2023.102848)
 
 USAGE:
 Run main_MUTE_finished.m and select a retinal image for enhancement.
