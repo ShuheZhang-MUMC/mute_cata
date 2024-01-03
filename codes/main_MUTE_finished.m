@@ -106,8 +106,12 @@ end
 
 
 
-imwrite(out_img_cut0,[save_path,img_name(1:end-4),'//', ...
+imwrite([raw_img0,out_img_cut0],[save_path,img_name(1:end-4),'//', ...
     img_name(1:end-4),'_',num2str(I0_aim),'out.png'])
+
+close all
+figure();
+imshow([raw_img0,out_img_cut0],[]);
 
 
 toc
